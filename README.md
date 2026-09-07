@@ -1,5 +1,4 @@
-![Profile Picture](<img width="235" height="297" alt="image" src="https://github.com/user-attachments/assets/d1773fc1-5acf-4340-a3a4-a4935359f12e" />
-).
+!(<img width="235" height="297" alt="image" src="https://github.com/user-attachments/assets/d1773fc1-5acf-4340-a3a4-a4935359f12e"/>)
 # Muhammad Haseeb Akbar
 ## EDUCATION: 
 The City School (nursery-A level)                      
