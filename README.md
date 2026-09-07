@@ -8,5 +8,10 @@ The City School (nursery-A level)
    - Critical thinker
    - Able to work under stress
 ## PROJECTS: Hello world program
-
-    
+## Hobbies & Extracurriculars
+1. Video games
+   - [ ] Forza Horizon
+   - [x] Sekiro
+   - [x] Dark Souls 1
+3. Watching youtube
+4. Sleeping
